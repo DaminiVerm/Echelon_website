@@ -1,0 +1,11 @@
+#about {
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+     
+}
+
+#about p {
+    max-width: 600px;
+    margin: 0 auto;
+}
